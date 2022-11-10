@@ -23,6 +23,8 @@
             <option value="$PROJECT_DIR$/myapplication2" />
             <option value="$PROJECT_DIR$/myapplication4" />
             <option value="$PROJECT_DIR$/relativelayout" />
+            <option value="$PROJECT_DIR$/screen_rotate2" />
+            <option value="$PROJECT_DIR$/stopwatch" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
